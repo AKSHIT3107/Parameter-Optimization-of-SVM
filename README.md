@@ -1,5 +1,3 @@
-# Parameter-Optimization-of-SVM
-
 # Optimized SVM Classifier on UCI Dry Bean Dataset
 
 This project demonstrates how to optimize Support Vector Machine (SVM) classifiers using multiple random splits of the UCI Dry Bean Dataset. It performs parameter tuning over 10 different train-test samples and identifies the best model configuration based on test accuracy.
